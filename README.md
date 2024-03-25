@@ -5,8 +5,11 @@ This is a React-based Travel Journal project aimed at helping users document the
 ## Features
 
 Create Entries: Users can create new journal entries for each destination they visit.
+
 View Entries: Users can view their existing journal entries along with the details and images.
+
 Edit Entries: Users can edit their existing entries to update details or add more information.
+
 Delete Entries: Users can delete entries they no longer need.
 
 The data.js file contains the data related to all the travel details and props are used to pass data from parent components to child components. 
