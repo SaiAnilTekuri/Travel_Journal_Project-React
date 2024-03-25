@@ -2,6 +2,9 @@
 
 This is a React-based Travel Journal project aimed at helping users document their travel experiences. Users can create entries for different destinations they visit, including details like location, date, memorable moments, and images.
 
+![project-2-result](https://github.com/SaiAnilTekuri/Travel_Journal_Project-React/assets/145858403/13e983dd-d10c-408c-9d21-5a1daf0176a4)
+
+
 ## Features
 
 Create Entries: Users can create new journal entries for each destination they visit.
